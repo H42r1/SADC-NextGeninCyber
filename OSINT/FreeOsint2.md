@@ -22,7 +22,7 @@ Using the google lens with the file `hi.jpg` lead us to a post made by `CybZan` 
 
 link: `https://ctf-radar.cybzan.com/`
 
-I found the announcement of the event on `CTF Radar`.
+I found the announcement of the `NextGeninCyber` on `CTF Radar`.
 In the description  there is a `base64` encoded string. 
 
 ![](attachments/Pasted%20image%2020251108235538.png)
