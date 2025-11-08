@@ -2,7 +2,7 @@
 
 ![](attachments/Pasted%20image%2020251108185750.png)
 
-Writeups of chall that I solved in the SADC NextGeninCyber. :)
+---
 
 **Members of M4G1K**:
 
@@ -14,9 +14,11 @@ Writeups of chall that I solved in the SADC NextGeninCyber. :)
 
 [F1n4f4](https://www.linkedin.com/in/andriew-boko-71681b322/)
 
+---
 **Rank**: 5th
 
-Here is the list of the challs.
+---
+Here is the list of the challenges that I managed to solve.
 
 | Name                                                                      | Category            | Points | Available |
 | ------------------------------------------------------------------------- | ------------------- | ------ | --------- |
