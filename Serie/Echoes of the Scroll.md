@@ -28,13 +28,13 @@ First of all, I used `binwalk` to extract a zip archive hidden in the file `fina
 
 ![](attachments/Pasted%20image%2020251108213705.png)
 
-I tried to unzip the archive but it has a password on it so I use a `zip2john` to extract the hash to brute force it.
+I tried to unzip the archive, but it was password‑protected, so I used `zip2john` to extract the hash and brute‑force it.
 
  ```sh
  zip2john 3EDF96.zip > hash
  ```
 
-To generate a wordlist I used [cupp](https://github.com/Mebus/cupp) and the configuration present in the `screeshot.jpg`.
+To generate a wordlist I used [cupp](https://github.com/Mebus/cupp) and the configuration shown in the `screeshot.jpg`.
 
 ---
 **Configs**
