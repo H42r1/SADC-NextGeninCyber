@@ -46,7 +46,7 @@ After cloning the repo [cupp](https://github.com/Mebus/cupp), edit the file `cup
 
 ![](attachments/Pasted%20image%2020251108214633.png)
 
- Run `cupp.py` and follow the configurations as in the `scrennshot` .  `DO NOT CHOOSE "Y" FOR THE HYPERSPEED PRINT YOU WILL WASTE TOUR TIME` . 
+ Run `cupp.py`, follow the steps shown in the `screenshot` and after this, a wordlist named `ganymede.txt` will be generated. `DO NOT CHOOSE "Y" FOR THE HYPERSPEED PRINT YOU WILL WASTE YOUR TIME`. 
 
 ---
 After running john with the  `ganymede.txt` wordlist, I found the password of the archive.
