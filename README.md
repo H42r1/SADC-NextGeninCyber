@@ -25,9 +25,9 @@ Here is the list of the challenges that I managed to solve.
 | [Oh my keyboard !](Misc/Oh%20my%20keyboard%20!.md)                        | Misc                | 200    | 🟢        |
 | [OLD LANGUAGE](Misc/OLD%20LANGUAGE.md)                                    | Misc                | 300    | 🟢        |
 | [The Hidden Gateway](Misc/The%20Hidden%20Gateway.md)                      | Misc                | 100    | 🟢        |
-| [Agent 47](Forensics/Agent%2047.md)                                       | Forensics           | 345    |           |
-| [Archive](Forensics/Archive.md)                                           | Forensics           | 100    |           |
-| [Suspicious Web Activities](Forensics/Suspicious%20Web%20Activities.md)   | Forensics           | 100    |           |
+| [Agent 47](Forensics/Agent%2047.md)                                       | Forensics           | 345    | 🟢        |
+| [Archive](Forensics/Archive.md)                                           | Forensics           | 100    | 🟢        |
+| [Suspicious Web Activities](Forensics/Suspicious%20Web%20Activities.md)   | Forensics           | 100    | 🟢        |
 | [Broken RSA](Cryptography/Broken%20RSA.md)                                | Cryptography        | 100    |           |
 | [sherlock 1](Mobile/sherlock%207.md)                                      | Mobile              | 100    |           |
 | [sherlock 7](Mobile/sherlock%207.md)                                      | Mobile              | 500    |           |
@@ -42,6 +42,6 @@ Here is the list of the challenges that I managed to solve.
 | [Shelldon’s Treasure Trail](Boot2Root/Shelldon’s%20Treasure%20Trail.md)   | Boot2Root           | 350    |           |
 | [Echoes of the Scroll](Serie/Echoes%20of%20the%20Scroll.md)               | Serie               | 500    | 🟢        |
 | [The Forbidden Scroll](Serie/The%20Forbidden%20Scroll.md)                 | Serie               | 400    | 🟢        |
-| [Fatal](Web/Fatal.md)                                                     | Web                 | 500    |           |
-| [Xaml-Fasa](Web/Xaml-Fasa.md)                                             | Web                 | 50     |           |
+| [Fatal](Web/Fatal.md)                                                     | Web                 | 500    | 🟢        |
+| [Xaml-Fasa](Web/Xaml-Fasa.md)                                             | Web                 | 50     | 🟢        |
 

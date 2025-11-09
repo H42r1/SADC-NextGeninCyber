@@ -9,10 +9,6 @@ In the hidden village, a precious Forbidden Scroll has been stolen and hidden de
 **Flag format:** `SADC{...}`
 
 ---
-### Hints
-No hint
-
----
 ### Solution
 To solve it, you will need to find the `crackme` present in the chall [The Forbidden Scroll](The%20Forbidden%20Scroll.md).
 Since I already found it, you can download it [here](https://drive.google.com/file/d/1jmIOsH53tBa74pCNMqQ90kN_JSA-XMQW/view?usp=drive_link).

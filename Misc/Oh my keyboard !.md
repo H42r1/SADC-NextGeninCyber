@@ -7,10 +7,6 @@ Author: [BJ SEC](https://bjsec.xyz)
 My keyboard just started doing what he wants ! I don't know what to do but this is what I wanna give you : OAEJ?F0g{jab{p34e{cy{m4bZ{I047+
 
 ---
-### Hints
-No hint
-
----
 ### Solution
 It is obviously the flag but it is encoded. The title of the chall makes us think about some keyboard encoding or something like that. After some digging, I found out it was a keyboard mapping. Let's use [dcode](https://www.dcode.fr/chiffre-changement-clavier) to find the flag.
 

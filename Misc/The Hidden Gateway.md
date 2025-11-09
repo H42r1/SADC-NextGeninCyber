@@ -13,10 +13,6 @@ The flag awaits those bold enough to find the hidden path.
 🔐 Flag format: SADC{...}
 
 ---
-### Hints
-No hint
-
----
 ### Solution
 Head to the discord and grab the flag in the `welcome_flag` channel.
 

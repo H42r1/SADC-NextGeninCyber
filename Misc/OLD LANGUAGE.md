@@ -8,10 +8,6 @@ Author : [BJ SEC](https://bjsec.xyz)
 Flag format : SADC{.....}
 
 ---
-### Hints
-No hint
-
----
 ### File
 [image.png](https://drive.google.com/file/d/1My_E8alScRaybRQgqa93ydRRVACssLXx/view?usp=drive_link)
 
@@ -30,3 +26,5 @@ The link to the image : https://github.com/tachoknight/punchcardreader/blob/mast
 Not my proudest solve ToT.
 
 Flag :  `SADC{FORTRAN-IS-THE-BEST-MYGEE}`
+
+GG!
