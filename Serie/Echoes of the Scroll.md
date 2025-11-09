@@ -16,8 +16,9 @@ Member of Team 7, you’re assisting a cybersecurity expert who between manga co
 2: What about using Cupp dictionary to create a wordlist based on the informations ?
 
 ---
-### File
+### Files
 [screenshot.jpg](https://drive.google.com/file/d/1AIa_ZOlkWKX2jEs-nGEUN0Mt4iZIEFDG/view?usp=drive_link)
+
 [final.png](https://drive.google.com/file/d/1iUFenucj4pbRzYPJA2SMfxx_hSL3Cn9_/view?usp=drive_link)
 
 ---
@@ -37,14 +38,15 @@ I tried to unzip the archive, but it was password‑protected, so I used `zip2jo
 To generate a wordlist I used [cupp](https://github.com/Mebus/cupp) and the configuration shown in the `screeshot.jpg`.
 
 ---
-**Configs**
+#### Steps to generate the wordlist
+
 After cloning the repo [cupp](https://github.com/Mebus/cupp), edit the file `cupp.cfg` by setting the variables`wcfrom` and `wcto` respectively to `20` and `30`.
 
 ![](attachments/Pasted%20image%2020251108215616.png)
 
 ![](attachments/Pasted%20image%2020251108214633.png)
 
- Run `cupp.py` and follow the config as in the `scrennshot` .  `DO NOT CHOOSE "Y" FOR THE HYPERSPEED PRINT YOU WILL WASTE TOUR TIME` .
+ Run `cupp.py` and follow the configurations as in the `scrennshot` .  `DO NOT CHOOSE "Y" FOR THE HYPERSPEED PRINT YOU WILL WASTE TOUR TIME` . 
 
 ---
 After running john with the  `ganymede.txt` wordlist, I found the password of the archive.
@@ -112,7 +114,11 @@ Scanning it lead us to a crackme on `MEGA`
 
 If the crackme is no longer available on `MEGA`, you can download it [here](https://drive.google.com/file/d/1jmIOsH53tBa74pCNMqQ90kN_JSA-XMQW/view?usp=drive_link.)
 
-The flag is the `sha256sum` of the `crackme`
+The flag is the `SHA256` of the `crackme`. To find it, I used `sha256sum`
+
+```sh
+sha256sum crackme
+```
 
 Flag: `SADC{39d9c23da3504ef00dc22760977b8724b18123786efc28f6c6997472ec76bba1}`
 
