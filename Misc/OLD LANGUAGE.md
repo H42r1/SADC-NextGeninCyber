@@ -23,7 +23,7 @@ I searched for a `IBM punch card simulator` on google and I found this site : [K
 
 The link to the image : https://github.com/tachoknight/punchcardreader/blob/master/punchcard.jpg
 
-Not my proudest solve ToT.
+Not my proudest solve 😭🤡.
 
 Flag :  `SADC{FORTRAN-IS-THE-BEST-MYGEE}`
 

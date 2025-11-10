@@ -39,7 +39,7 @@ By replacing `/www/index.html` with `/etc/passwd` and sending the serialized coo
 
 ![](attachments/Pasted%20image%2020251109205900.png)
 
-I tried some path like `/home/www/flag.txt`, `/opt/flag.txt` `/var/www/html/flag.txt` but nothing worked. Then I remembered the log‑poisoning technique used in the challenge [Secure Admin](../Boot2Root/Secure%20Admin.md). This app is running on nginx.
+I tried some path like `/home/www/flag.txt`, `/opt/flag.txt`,  `/var/www/html/flag.txt` but nothing worked. Then I remembered the log‑poisoning technique used in the challenge [Secure Admin](../Boot2Root/Secure%20Admin.md). This app is running on nginx.
 
 ![](attachments/Pasted%20image%2020251109211318.png)
 

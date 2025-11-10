@@ -29,8 +29,8 @@ Here is the list of the challenges that I managed to solve.
 | [Archive](Forensics/Archive.md)                                           | Forensics           | 100    | 🟢        |
 | [Suspicious Web Activities](Forensics/Suspicious%20Web%20Activities.md)   | Forensics           | 100    | 🟢        |
 | [Broken RSA](Cryptography/Broken%20RSA.md)                                | Cryptography        | 100    |           |
-| [sherlock 1](Mobile/sherlock%207.md)                                      | Mobile              | 100    |           |
-| [sherlock 7](Mobile/sherlock%207.md)                                      | Mobile              | 500    |           |
+| [sherlock 1](Mobile/sherlock%207.md)                                      | Mobile              | 100    | 🟢        |
+| [sherlock 7](Mobile/sherlock%207.md)                                      | Mobile              | 500    | 🟢        |
 | [FreeOsint1](OSINT/FreeOsint1.md)                                         | OSINT               | 100    | 🟢        |
 | [FreeOsint2](OSINT/FreeOsint2.md)                                         | OSINT               | 100    | 🟢        |
 | [Authentification v1.0](Reverse%20Engeneering/Authentification%20v1.0.md) | Reverse Engeneering | 200    |           |
